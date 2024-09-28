@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Client-side",
+    "\\Client-side\\Debug",
+    "\\Server-Side"
   ],
-  "SelectedNode": "\\Client-side",
+  "SelectedNode": "\\Server-Side\\Server-Side.cpp",
   "PreviewInSolutionExplorer": false
 }
